@@ -1,4 +1,5 @@
 {
+    "name": "uniondev/symfony-vue",
     "keywords": ["uniondev","skeleton"],
     "homepage": "https://github.com/uniondevru/uniondev",
     "type": "project",
